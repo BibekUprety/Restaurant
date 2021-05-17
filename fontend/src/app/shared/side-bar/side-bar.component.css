@@ -1,0 +1,21 @@
+.hello{
+  margin-left: -1000px !important;
+}
+.hello h1{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-bottom: 8px;
+}
+.hello p {
+  font-size: 16px;
+}
+.category{
+  width: 1000px;
+  display-model: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.ourMenu h3,.ouritems h3{
+  font-weight: bolder;
+
+}
